@@ -1,2 +1,0 @@
-# Ansa_kNN
-kNN
